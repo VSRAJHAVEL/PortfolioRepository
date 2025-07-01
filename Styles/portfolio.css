@@ -635,6 +635,7 @@ button:hover::after {
     }
     .work-super {
         flex-direction: column;
+        gap: 20px;
     }
     .work-subflex {
         gap: 20px;
